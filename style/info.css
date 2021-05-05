@@ -1,0 +1,22 @@
+.info {
+    padding: 10px 29px 40px 29px;
+}
+.info__title {
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 50px;
+}
+
+.info__text {
+    font-size: 18px;
+    line-height: 22px;
+    margin: 23px 0 36px 0;
+}
+
+.info__image{
+    width: 100%;
+    max-width: 316px;
+    margin: 0 auto;
+    height: 478px;
+    object-fit: cover;
+}

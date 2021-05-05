@@ -1,0 +1,21 @@
+.portfolio {
+    background-color: #F6F6F6;
+    padding: 81px 0 81px 0;
+}
+.portfolio-card {
+    text-align: center;
+    padding: 20px 30px 20px 30px;
+}
+
+.portfolio-card > img {
+    width: 100%;
+    max-width: 316px;
+}
+
+.portfolio__text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    margin-top: 33px;
+}

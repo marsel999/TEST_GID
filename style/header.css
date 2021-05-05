@@ -1,0 +1,8 @@
+.header__menu > ul {
+    display: none;
+}
+
+.header__button {
+    float: right;
+    margin-top: 40px;
+}

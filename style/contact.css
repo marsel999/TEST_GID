@@ -1,0 +1,30 @@
+.contacts  {
+    padding: 81px 0 81px 0;
+    text-align: center;
+}
+
+.contacts > .line__text {
+    margin: 27px 0 40px 0;
+}
+
+.contacts_button {
+    width: 316px;
+    height: 42px;
+    background: black;
+    border-radius: 30px;
+    color: white;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 48px;
+}
+.contacts_icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacts_text {
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+    margin-top: 48px;
+}

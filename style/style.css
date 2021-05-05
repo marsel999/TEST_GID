@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url("./header.css");
+@import url("./info.css");
+@import url("./about.css");
+@import url("./skills.css");
+@import url("./portfolio.css");
+@import url("./contact.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+  
+a {
+    text-decoration: none;
+    color: inherit;
+}
+  
+button {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 375px;
+    padding: 0 2px;
+}
+
+.line__title{
+    font-family: 700;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.line__text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}

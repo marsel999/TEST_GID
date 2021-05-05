@@ -1,0 +1,23 @@
+.skills {
+    padding: 83px 0 90px 0;
+}
+.skills > .line__text {
+    margin-bottom: 70px;
+}
+.skill-card {
+    text-align: center;
+    padding: 20px 5px 20px 5px;
+}
+.skills > .line__title {
+    margin-bottom: 50px;
+}
+.skill-card__title {
+    font-size: 14px;
+    line-height: 17px;
+    color: #828282;
+    margin: 23px 0 56px 0;
+}
+.skill-card__raiting {
+    margin-bottom: 81px;
+    padding: 10px;
+}
